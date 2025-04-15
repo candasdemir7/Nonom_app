@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:enabled="true"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Home" />
+    <item
+        android:id="@+id/addRecipe"
+        android:enabled="true"
+        android:icon="@drawable/baseline_add_24"
+        android:title="Add Recipe" />
+    <item
+        android:id="@+id/listRecipe"
+        android:enabled="true"
+        android:icon="@drawable/baseline_list_24"
+        android:title="List Recipe" />
+    <item
+        android:id="@+id/deleteRecipe"
+        android:enabled="true"
+        android:icon="@drawable/baseline_delete_24"
+        android:title="Delete" />
+</menu>
